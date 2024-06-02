@@ -12,6 +12,12 @@ To use these guides you need:
 
 To start with any service setup, please head to the guide [Configure The Environment: Debian, Docker & Portainer](ConfigureTheEnvironment/ConfigureTheEnvironment.md) to first setup Docker & Portainer on your host system.
 
+## Guide Directory
+- [NextCloud](DeployNextCloud/DeployNextCloud.md)
+- [Pi-Hole](DeployPiHole/DeployPiHole.md)
+- [WireGuard](DeployWireGuard/DeployWireGuard.md)
+- [BitWarden](DeployBitWarden/DeployBitWarden.md)
+
 ## Contribution
 If you find any outdated, missing or incorrect information in these guides, please feel free to submit a pull request with the updated/corrected information.
 
