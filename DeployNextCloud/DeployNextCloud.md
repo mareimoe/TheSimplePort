@@ -22,9 +22,10 @@ Login to Portainer via your web browser and on the side menu, click “App Templ
 <br/><br/>
 
 For the container configuration, provide the below details, then click on “Deploy the container”.
-
->Name: MariaDB<br/>
-Root Password: **YOUR STRONG DATABASE ROOT PASSWORD**
+```
+Name: MariaDB
+Root Password: A STRONG DATABASE ROOT PASSWORD
+```
 
 Then click “Show advanced options“, and under “Port mapping”, set your host port to 32568 then click "Deploy the container".
 <br/><br/>
