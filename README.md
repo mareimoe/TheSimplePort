@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # TheSimplePort
-![Cover Image](ConfigureTheEnvironment/config-env-cover.jpg.webp)
+![Cover Image](ConfigureTheEnvironment/env-config-cover.jpg)
 
 A collection of guides to setup basic Docker services on a Debian Linux host. The purpose of these guides is to help you get started with learning Docker, or if you need to setup those services quickly and manage them with Portainer's GUI. 
 
