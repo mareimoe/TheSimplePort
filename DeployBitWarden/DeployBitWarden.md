@@ -19,7 +19,7 @@ sudo ufw allow 80,443,8005/tcp
 ```
 
 ## Implement HTTPS
-Bitwarden requires HTTPS to work, so before we deploy a Bitwarden container, we need to install certbot and generate our own SSL certificate to secure the connections to our host, and to do that we need a web server, we will go with Nginx for that.
+Bitwarden requires HTTPS to work, so before we deploy a Bitwarden container, we need to install Certbot and generate our own SSL certificate to secure the connections to our host, and to do that we need a web server, we will go with Nginx for that.
 
 >Note: In order to generate an SSL certificate, you need an active domain name with an A record pointing to your host’s IP address.
 
