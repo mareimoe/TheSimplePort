@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Deploy WireGuard on Docker
-![Deploy WireGuard Cover](deploy-wireguard-cover.jpg.webp)
+![Deploy WireGuard Cover](wireguard-cover.jpg)
 
 This guide demonstrates the process of installing and configuring a WireGuard server on Docker via Docker Compose. If you do not have your server running Docker yet, please refer to the guide [Configure The Environment: Debian, Docker & Portainer](/ConfigureTheEnvironment/ConfigureTheEnvironment.md).
 

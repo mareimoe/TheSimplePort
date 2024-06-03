@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Deploy Pi-Hole on Docker
-![Deploy Pi-Hole Cover](deploy-pihole-cover.jpg.webp)
+![Deploy Pi-Hole Cover](pihole-cover.jpg)
 
 This guide demonstrates the process of installing and configuring a Pi-Hole server on Docker via Portainer. If you do not have your server running Docker/Portainer yet, please refer to the guide to [Configure The Environment: Debian, Docker & Portainer](/ConfigureTheEnvironment/ConfigureTheEnvironment.md).
 

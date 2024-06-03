@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Deploy Bitwarden on Docker
-![Deploy Bitwarden Cover](deploy-bitwarden-cover.jpg.webp)
+![Deploy Bitwarden Cover](bitwarden-cover.jpg)
 
 This guide demonstrates the process of installing and configuring a Bitwarden server on Docker via Portainer. If you do not have your server running Docker/Portainer yet, please refer to the guide [Configure The Environment: Debian, Docker & Portainer](/ConfigureTheEnvironment/ConfigureTheEnvironment.md).
 

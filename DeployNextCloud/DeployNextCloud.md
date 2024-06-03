@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Deploy NextCloud on Docker
-![Deploy NextCloud Cover](deploy-nextcloud-cover.jpg.webp)
+![Deploy NextCloud Cover](nextcloud-cover.jpg)
 
 This guide demonstrates the steps to install and configure your NextCloud instance on Docker using Portainer UI. If you did not setup your server and install Docker/Portainer yet, Please refer to the guide [Configure The Environment: Debian, Docker and Portainer](/ConfigureTheEnvironment/ConfigureTheEnvironment.md).
 

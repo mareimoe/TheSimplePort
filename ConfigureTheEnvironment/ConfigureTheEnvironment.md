@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Configure The Environment: Debian, Docker & Portainer
-![Configure Environment Cover](config-env-cover.jpg.webp)
+![Configure Environment Cover](env-config-cover.jpg)
 
 In this guide we will setup the basic environment to install and host Docker containers on Debian Linux.
 
