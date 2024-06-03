@@ -2,6 +2,7 @@
 # Configure The Environment: Debian, Docker & Portainer
 ![Configure Environment Cover](config-env-cover.jpg.webp)
 <br/>
+
 In this guide we will setup the basic environment to install and host Docker containers on Debian Linux.
 
 <!-- omit in toc -->
@@ -32,7 +33,6 @@ You can verify Docker is running by checking the version
 ```bash
 docker -v
 ```
-
 
 ## Deploy Portainer
 
