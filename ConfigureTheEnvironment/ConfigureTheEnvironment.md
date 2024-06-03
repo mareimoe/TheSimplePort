@@ -57,7 +57,6 @@ sudo docker ps
 
 Now that Portainer is up and running, our next step is to setup our firewall and open the ports we need for our services.
 
-
 > Note: You don’t need to follow this part if your VPS has a firewall configured for your instances by default from your hosting provider, but you have to allow these ports from the Instance Management Console as you do for SSH.
 
 For our Debian firewall, we will manage it using UFW, you can install it with the below command.
