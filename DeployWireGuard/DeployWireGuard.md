@@ -40,7 +40,7 @@ cd wireguard
 sudo nano docker-compose.yml
 ```
 
-Now paste the below configuration into the yml file in nano editor. Remember to replace the **YOUR HOST IP** below with your own host IP address (or domain name), and to set the TZ variable to your timezone, then save the file by pressing ctrl+o.
+Now paste the below configuration into the yml file in nano editor. Remember to replace **YOUR HOST IP** below with your own host IP address (or domain name), and to set the TZ variable to your timezone, then save the file by pressing ctrl+o.
 ```
 version: "2.1"
 services:
@@ -54,7 +54,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London
-      - SERVERURL= 54.202.98.198  #optional
+      - SERVERURL= YOUR HOST IP  #optional
       - SERVERPORT=51820 #optional
       - PEERS=1 #optional
       - PEERDNS=auto #optional
