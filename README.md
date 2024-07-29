@@ -15,7 +15,6 @@ To start with any service setup, please head to the guide [Configure The Environ
 - [NextCloud](DeployNextCloud/DeployNextCloud.md)
 - [Pi-Hole](DeployPiHole/DeployPiHole.md)
 - [WireGuard](DeployWireGuard/DeployWireGuard.md)
-- [BitWarden](DeployBitWarden/DeployBitWarden.md)
 
 ## Contribution
 If you find any outdated, missing or incorrect information in these guides, please feel free to submit a pull request with the updated/corrected information.
